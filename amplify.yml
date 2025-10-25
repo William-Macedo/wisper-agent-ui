@@ -14,3 +14,6 @@ frontend:
   cache:
     paths:
       - node_modules/**/*
+  environment:
+    NEXT_PUBLIC_AGENT_URL: "https://efazwlxir5kmsc6bxmq5kpblei0mabzm.lambda-url.us-east-2.on.aws"
+
